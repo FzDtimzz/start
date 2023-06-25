@@ -1,0 +1,6 @@
+--2021-10-31 22:47:14--  https://proxoid.net/api/getProxy?key=ad29ae16d253469f1639d27193061931
+Resolving proxoid.net (proxoid.net)... 193.233.15.203
+Connecting to proxoid.net (proxoid.net)|193.233.15.203|:443... connected.
+HTTP request sent, awaiting response... 400 Bad Request
+2021-10-31 22:47:14 ERROR 400: Bad Request.
+
